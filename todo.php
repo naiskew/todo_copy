@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html> 
+<html>
 <script language="javascript" src="jquery-1.8.3.js"></script>
 <style type ="text/css">
   div.myList 
