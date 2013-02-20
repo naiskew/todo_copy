@@ -369,6 +369,17 @@ function userLogout()
 		document.getElementById("username").value = "PlzLogin";
 		document.getElementById("passwd").value = "";
 		document.getElementById("txtSubj").value = "subject"
+		
+		var x = 0;
+		while ( x< listCount)
+		{
+		  listID[x] = "";
+		  listSubj[x] = "";
+		  listDueDate[x] = "";
+		  listDueTime[x] = "";
+		  x = x+1;	
+		}
+		
 	});
 }
 
