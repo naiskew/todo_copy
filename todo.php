@@ -15,7 +15,7 @@
 
 <div id = "divHead">
 	<a name="top"></a>
-	<h1 id = "txtHead">My Todo List v1</h1>
+	<h1 id = "txtHead">My Todo List v2</h1>
 	<input type="button" id="btnLogin" value="Log in" onclick = "userLogin()" />
 	<input type="button" id="btnLogout" value="Log out" onclick = "userLogout()" />
 	<input type="button" id="btnRegister" value="Register" onclick = "userRegister()" />
