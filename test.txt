@@ -3,6 +3,7 @@ function b
 function c
 funciton d on master {
  this is mac mod
-}
 
 mac has the other function
+funciton e
+add by window onwindow branch
