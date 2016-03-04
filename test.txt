@@ -1,4 +1,6 @@
 function a
 function b
 function c
-funciton d on master
+funciton d on master {
+ this is mac mod
+}
