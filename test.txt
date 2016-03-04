@@ -4,3 +4,5 @@ function c
 funciton d on master {
  this is mac mod
 }
+
+mac has the other function
