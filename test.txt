@@ -4,3 +4,6 @@ function c
 funciton d on master {
  this is mac mod
 }
+funciton e
+add by window onwindow branch
+
